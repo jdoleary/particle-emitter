@@ -1,5 +1,5 @@
 {
-  "name": "@pixi/particle-emitter",
+  "name": "pixi-particle-emitter",
   "version": "5.0.7",
   "main": "lib/particle-emitter.js",
   "module": "lib/particle-emitter.es.js",
@@ -96,6 +96,5 @@
       "test/pixi-v6-iife",
       "test/pixi-v6-module"
     ]
-  },
-  "private": true
+  }
 }
